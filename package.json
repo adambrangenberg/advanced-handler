@@ -1,0 +1,25 @@
+{
+  "name": "advanced-handler",
+  "version": "1.0.0",
+  "description": "An advanced commandhandler with slashcommand, cooldowns and some other stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "=)"
+  },
+  "keywords": [
+    "discord",
+    "discord interaction"
+  ],
+  "author": "TigerbyteDev",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^13.0.0-dev.1816a93b1b1b2bae47e8651e76fa53699de8421d",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
