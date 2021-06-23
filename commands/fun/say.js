@@ -1,6 +1,5 @@
 module.exports = {
     name: "say",  
-    category: "fun", 
     description: "Repeats the input", 
     options: [{
         name: 'input',

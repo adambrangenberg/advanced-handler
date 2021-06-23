@@ -1,6 +1,5 @@
 module.exports = {
   name: "ping", 
-  category: "info", 
   description: "Shows you the current botlatency", 
   slash: true,
 
