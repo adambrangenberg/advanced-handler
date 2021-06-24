@@ -1,2 +1,2 @@
-You also need to create an .env with TOKEN=You're_DISCORD_BOT_TOKEN. The other things came out of reading the code.
+You also need to create an .env with TOKEN=YOUR_DISCORD_BOT_TOKEN. The other things came out of reading the code.
 Better documentations and comments cooming soon...
